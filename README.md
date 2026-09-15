@@ -128,3 +128,129 @@
 </div>
 
 ---
+<br>
+<br>
+
+<h1>👨‍💻 About Me</h1>
+
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/Right_Side.gif" width="280" />
+
+<sub>
+
+<h3>• 📊 Experienced in <b>Data Analysis</b> — extracting meaningful insights from complex datasets.</h3>
+
+<h3>• 📈 Skilled in <b>Business Intelligence</b> — building interactive dashboards and reports.</p></h3>
+
+<h3>• 🔭 Working on <b>end-to-end data projects</b> from data preparation to visualization.</p></h3>
+
+<h3>• 🌱 Improving my skills in <b>Power BI, SQL, Excel, and Python</b>.</p></h3>
+
+<h3>• 💡 Passionate about turning raw data into <b>actionable business insights</b>.</p></h3>
+
+<h3>• 🎓 Continuous learner focused on <b>analytical and problem-solving skills</b>.</p></h3>
+
+<h3>• ⚡ <b>Fun fact:</b> I enjoy turning messy datasets into clear and meaningful stories!</p></h3>
+
+</sub>
+
+<br clear="both" />
+
+---
+<br>
+<br>
+
+<h1>🧠 Core Skills</h1>
+
+<h3>📊 Data Analysis</h3>
+
+<sub>
+• Data Cleaning & Transformation &nbsp; • Exploratory Data Analysis &nbsp; • Data Preparation
+</sub>
+
+<h3>📈 Business Intelligence</h3>
+
+<sub>
+• KPI Development &nbsp; • Business Insights &nbsp; • Performance Analysis
+</sub>
+
+<h3>📐 Data Modeling</h3>
+
+<sub>
+• Data Models & Relationships &nbsp; • Dimensional Modeling &nbsp; • Data Preparation
+</sub>
+
+<h3>📶 Data Visualization</h3>
+
+<sub>
+• Interactive Dashboards &nbsp; • Data Storytelling &nbsp; • Visual Analytics
+</sub>
+
+<h3>🎯 Dashboard Development</h3>
+
+<sub>
+• KPI Cards &nbsp; • Interactive Reports &nbsp; • Slicers & Cross-Filtering
+</sub>
+
+---
+<br>
+<br>
+
+<h1 align="center">📈 GitHub Analytics</h1>
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=a7med-k4aled&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=a7med-k4aled&theme=algolia"
+    alt="GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph-blond-alpha.vercel.app/graph?username=a7med-k4aled"
+    alt="Ahmed Khaled's GitHub Activity Graph"
+  />
+</p>
+
+---
+<br>
+<br>
+
+
+<h1 align="center">🔗 Connect With Me</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmed-khaled-10a8a6413/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/a7med-k4aled">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:eng193a@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/share/1cY3hNHX8B/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+---
+<br>
+
+<div align="center">
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:0F4C75,100:00B4D8&height=220&section=footer&animation=twinkling&text=Thanks%20for%20visiting%20my%20profile!%20🚀&fontSize=32&fontColor=FFFFFF&fontAlignY=55"
+  width="100%"
+/>
+
+</div>
